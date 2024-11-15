@@ -1,2 +1,3 @@
 # CardGames
-Deck of Cards, plays a game. Array practice
+Deck of Cards, plays blackjack. 
+Array and class practice.
